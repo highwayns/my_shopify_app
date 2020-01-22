@@ -88,3 +88,12 @@ ngrok http 3000
 * Remote - WSL
 install Remote - WSL plugin for vscode
 open ubuntu folder in vscode
+
+* git clone
+```
+git clone https://github.com/highwayns/my_shopify_app
+cd my_shopify_app
+bundle install
+yarn install --check-files
+bundle exec rails server
+```
