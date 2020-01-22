@@ -84,3 +84,7 @@ rails g shopify_app:add_webhook -t carts/update -a https://example.com/webhooks/
 ```
 ngrok http 3000
 ```
+
+* Remote - WSL
+install Remote - WSL plugin for vscode
+open ubuntu folder in vscode
